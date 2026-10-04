@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Reza Ranjbar
 
-<!--
-**reza05463/reza05463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer engineer interested in understanding data and working with images. My university projects span MATLAB image processing, relational databases, networking, and technical research presentations.
 
-Here are some ideas to get you started:
+I'm organizing that work into reproducible projects and developing my skills in data analysis and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## University work
+
+ **MATLAB image processing:** absolute image differences and Laplacian sharpening.
+ **Relational databases:** a MySQL schema and PHP coursework application for user-written stories.
+ **Network design:** wired and wireless plans for small office environments.
+ **Research communication:** a presentation reviewing Saleh Alwer's *Graph Neural Networks for Chess* and a collaborative study of Linux huge pages.
+
+## Current focus
+
+Making my image-processing examples reproducible, building a SQL analysis project, and learning to evaluate machine-learning models carefully.working my best at time to figure out life
