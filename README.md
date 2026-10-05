@@ -18,6 +18,6 @@
 .
 .
 
-[وب‌سایت نمونه‌کارها](https://reza05463.github.io/) · [English](README.en.md)
+[وب‌سایت نمونه‌کارها](https://reza05463.github.io/) 
 
 </div>
